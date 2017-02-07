@@ -1,2 +1,2 @@
-# libreim-talks
-My libreIM talks
+# Latex for Telegram
+How to write Latex formulas in Telegram
